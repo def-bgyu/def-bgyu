@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 💫 About Me:
-# 👋 Hi there, I'm Nidhi Sankhe!<br><br>*Digital Explorer (AI + Full Stack Developer)*<br><br>I'm a Computer Science grad student @ CU Boulder, building smart apps powered by NLP, GenAI, and modern web technologies. From scalable backend systems to interactive UIs, I love turning ideas into real-world solutions.<br><br>---<br><br>### 🔧 What I Work With<br>- 🧠 **AI/ML & NLP** – Transformers, LLMs, PyTorch, Hugging Face  <br>- 🌐 **Web Dev** – React.js, Node.js, Express, Tailwind, Angular, Typescript<br>- ☁️ **Cloud & Tools** – Firebase, MongoDB, Google Cloud, AWS, GitHub Actions  <br>
+## 💫 About Me:
+### 👋 Hi there, I'm Nidhi Sankhe!<br><br>*Digital Explorer (AI + Full Stack Developer)*<br><br>I'm a Computer Science grad student @ CU Boulder, building smart apps powered by NLP, GenAI, and modern web technologies. From scalable backend systems to interactive UIs, I love turning ideas into real-world solutions.<br><br>---<br><br>### 🔧 What I Work With<br>- 🧠 **AI/ML & NLP** – Transformers, LLMs, PyTorch, Hugging Face  <br>- 🌐 **Web Dev** – React.js, Node.js, Express, Tailwind, Angular, Typescript<br>- ☁️ **Cloud & Tools** – Firebase, MongoDB, Google Cloud, AWS, GitHub Actions  <br>
 
 
 ## 🌐 Socials:
