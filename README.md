@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 💫 About Me:
  👋 Hi there, I'm Nidhi Sankhe!<br><br>*Digital Explorer (AI + Full Stack Developer)*<br><br>I'm a Computer Science grad student @ CU Boulder, building smart apps powered by NLP, GenAI, and modern web technologies. From scalable backend systems to interactive UIs, I love turning ideas into real-world solutions.<br>
