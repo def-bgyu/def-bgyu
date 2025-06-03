@@ -1,6 +1,6 @@
 
-## 💫 About Me:
-👋 Hi there, I'm Nidhi Sankhe!<br><br>
+## 💫 Hi there, I'm Nidhi Sankhe!
+
  👉Currently exploring AI/ML and Deep Learning<br>
  👉Full Stack Developer<br><br>I'm a Computer Science grad student @ CU Boulder, building smart apps powered by NLP, GenAI, and modern web technologies. From scalable backend systems to interactive UIs, I love turning ideas into real-world solutions.<br>
 ### 🔧 What I Work With<br>
