@@ -5,7 +5,7 @@
  👉Full Stack Developer<br><br>I'm a Computer Science grad student @ CU Boulder, building smart apps powered by NLP, GenAI, and modern web technologies. From scalable backend systems to interactive UIs, I love turning ideas into real-world solutions.<br>
 ### 🔧 What I Work With<br>
 - 🧠 **AI/ML & NLP** – Transformers, LLMs, PyTorch, TensorFlow, Hugging Face  <br>
-- 🌐 **Web Dev** – React.js, Node.js, Express, Tailwind, Angular, Typescript<br>
+- 🌐 **Web Dev** – React.js, Node.js, Express, Django, Angular, Typescript<br>
 - ☁️ **Cloud & Tools** – Firebase, MongoDB, Google Cloud, AWS, GitHub Actions  <br>
 
 
